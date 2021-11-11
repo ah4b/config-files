@@ -2,7 +2,7 @@
 
 syntax on "Syntax Highlighting Enabled
 
-set autoindent "Auto indentaion enabled
+set smartindent "Smart indentaion enabled
 
 set number "Show line numbers
 
@@ -12,6 +12,6 @@ set tabstop=4
 
 set shiftwidth=4
 
-set softtabstop=2
+set softtabstop=4
 
 set expandtab
